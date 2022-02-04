@@ -45,11 +45,14 @@ Using command line prompts with node is a way to quickly and easily generate a h
 
 I started by using the inquirer package to ask questions, return an answer object and then use a template literal in a separate javascript file to take that answer object and generate README markdown.
 
+Everything else was more of the same: cleaning up the answer objects, accessing the data and using functions and template literals to generate markdown.
+
 <br/>
 <br/>
 
 ## **Things I learned**
 * How to create an anchor link that jumps down to a section of the README.
+* To navigate inquirer docs. I didn't want to write out a bunch of conditionals to generate a badge license, and learned from the docs that with a choices list answer object one can assign a name to display as well as an answer hash value to return. This way I could assign index values to iterate through when generating badges in the markdown with the renderLicenseBadge function.
 
 <br/>
 <br/>

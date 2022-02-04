@@ -17,10 +17,11 @@ function generateMarkdown(data) {
   ${data.Description}
 
   ## Table of Contents
-    * [Installation] (#Installation)
-    * [Usage] (#Usage)
-    * [Contributing] (#Contributing)
-    * [Tests] (#Tests)
+  * [Installation] (#installation)
+  * [Usage] (#usage)
+  * [Contributing] (#contributing)
+  * [Tests] (#tests)
+  
   ## Installation
   ${data.Installation}
 
@@ -31,7 +32,7 @@ function generateMarkdown(data) {
   ${data.Contributing}
 
   ## Tests
-  ${data.Test}
+  ${data.Tests}
 
 `;
 }

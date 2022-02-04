@@ -107,6 +107,9 @@ init()
     .then(markdownLiteral => {
         return writeToFile('README.md', markdownLiteral);
     })
+    .then(writeFileResonse => {
+        console.log(writeFileResonse);
+    })
     .catch(err => {
         console.log(err);
     })

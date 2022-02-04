@@ -1,6 +1,6 @@
 
-  # tony
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT),[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+  # t
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
   t
@@ -19,8 +19,9 @@
 
   
   ## License(s)
-
   
+  This application is covered under the follow licenses(s):<br/>
+  [The MIT License](https://opensource.org/licenses/MIT)<br/>
   
   
 
@@ -31,3 +32,6 @@
   
 
   ## Questions
+  Please contact me with questions at the email below or on my GitHub page:<br/>
+    * Email: tonyllinz@gmail.com <br/>
+    * GitHub: [github.com/alinz07](https://github.com/alinz07)

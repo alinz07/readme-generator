@@ -17,10 +17,10 @@ function generateMarkdown(data) {
   ${data.Description}
 
   ## Table of Contents
-  * [Installation] (#installation)
-  * [Usage] (#usage)
-  * [Contributing] (#contributing)
-  * [Tests] (#tests)
+  [Installation](#installation)
+  [Usage](#usage)
+  [Contributing](#contributing)
+  [Tests](#tests)
   
   ## Installation
   ${data.Installation}

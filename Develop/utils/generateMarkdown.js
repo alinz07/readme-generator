@@ -87,7 +87,9 @@ function generateMarkdown(data) {
   ${data.Contributing}
 
   ## Tests
+  \`\`\`
   ${data.Tests}
+  \`\`\`
 
   ## Questions
   Please contact me with questions at the email below or on my GitHub page:<br/>

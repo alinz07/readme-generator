@@ -71,6 +71,7 @@ THEN I am taken to the corresponding section of the README
 
 ## **Screenshot of Web Application**
 ![gif-of-webapp](./Develop/mockup/challenge-9.gif)
+An example README file that was created with this app can be found in the Develop folder and is named README.md
 <br/>
 
 ## **How to Contribute**

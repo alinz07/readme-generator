@@ -74,7 +74,9 @@ function generateMarkdown(data) {
   [Tests](#tests) <br/>
   
   ## Installation
+  \`\`\`
   ${data.Installation}
+  \`\`\`
 
   ## Usage
   ${data.Usage}

@@ -12,6 +12,17 @@ Create a command-line application that dynamically generates a professional READ
 
 <br/>
 
+## **Table of Contents**
+[How and Why?](#what-problem-does-this-solve-and-how-was-a-solution-accomplished) <br/>
+[Things I learned](#things-i-learned) <br/>
+[What makes this project stand out?](#what-makes-this-project-stand-out) <br/>
+[Challenge Criteria](#challenge-criteria)<br/>
+[Screenshot of Web Application](#screenshot-of-web-application)<br/>
+[How to Contribute](#how-to-contribute)<br/>
+[Credits](#credits)<br/>
+  
+<br/>
+
 ## **What Problem does this solve and how was a solution accomplished?**
 Using command line prompts with node is a way to quickly and easily generate a high quality README.
 
@@ -29,7 +40,8 @@ Everything else was more of the same: cleaning up the answer objects, accessing 
 
 I'm proud of my use of answer object data combined with template literals. The code is efficient and I stuck to the general template that was provided with the starter code, including most of the parameters that were suggested.
 <br/>
-## **Challenge Criteria**
+
+## **Challenge Critera**
 AS A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
@@ -58,9 +70,13 @@ THEN this is added to the section of the README entitled Questions, with instruc
 THEN I am taken to the corresponding section of the README
 <br/>
 
-## Screenshot of web application<br/>
+## **Screenshot of Web Application**
 ![gif-of-webapp](./Develop/mockup/challenge-9.gif)
 <br/>
+
+## **How to Contribute**
+Please feel free to review, refactor and submit a pull request for additional features on my github page: <br/>
+https://github.com/alinz07 
 
 ### **Credits**
 * Source code provided by University of Wisconsin-Milwaukee Extended Campus Full-Stack Coding Bootcamp

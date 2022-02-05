@@ -56,8 +56,8 @@ THEN this is added to the section of the README entitled Questions, with instruc
 
 * WHEN I click on the links in the Table of Contents<br/>
 THEN I am taken to the corresponding section of the README
-
 <br/>
+
 ## Screenshot of web application<br/>
 ![gif-of-webapp](./Develop/mockup/challenge-9.gif)
 <br/>

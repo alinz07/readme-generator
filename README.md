@@ -4,14 +4,31 @@
 ## **Link** to web application:
 
 ## **Link** to video walkthrough to demonstrate app functionality: 
-## **Link** to project repository:
+## **Link** to project repository: https://github.com/alinz07/readme-generator
 <br/>
 
-## **Purpose**
+## **Motivation**
 Create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
 
 <br/>
 
+## **What Problem does this solve and how was a solution accomplished?**
+Using command line prompts with node is a way to quickly and easily generate a high quality README.
+
+I started by using the inquirer package to ask questions, return an answer object and then use a template literal in a separate javascript file to take that answer object and generate README markdown.
+
+Everything else was more of the same: cleaning up the answer objects, accessing the data and using functions and template literals to generate markdown.
+<br/>
+
+## **Things I learned**
+* How to create an anchor link that jumps down to a section of the README.
+* To navigate inquirer docs. I didn't want to write out a bunch of conditionals to generate a badge license, and learned from the docs that with a choices list answer object one can assign a name to display as well as an answer hash value to return. This way I could assign index values to iterate through when generating badges in the markdown with the renderLicenseBadge function.
+<br/>
+
+## **What makes this project stand out?**
+
+I'm proud of my use of answer object data combined with template literals. The code is efficient and I stuck to the general template that was provided with the starter code, including most of the parameters that were suggested.
+<br/>
 ## **Challenge Criteria**
 AS A developer
 I WANT a README generator
@@ -40,33 +57,10 @@ THEN this is added to the section of the README entitled Questions, with instruc
 * WHEN I click on the links in the Table of Contents<br/>
 THEN I am taken to the corresponding section of the README
 
-## **How and Why**
-Using command line prompts with node is a way to quickly and easily generate a high quality README.
-
-I started by using the inquirer package to ask questions, return an answer object and then use a template literal in a separate javascript file to take that answer object and generate README markdown.
-
-Everything else was more of the same: cleaning up the answer objects, accessing the data and using functions and template literals to generate markdown.
-
 <br/>
-<br/>
-
-## **Things I learned**
-* How to create an anchor link that jumps down to a section of the README.
-* To navigate inquirer docs. I didn't want to write out a bunch of conditionals to generate a badge license, and learned from the docs that with a choices list answer object one can assign a name to display as well as an answer hash value to return. This way I could assign index values to iterate through when generating badges in the markdown with the renderLicenseBadge function.
-
-<br/>
-<br/>
-
-## **What makes this project stand out?**
-
-<br/>
-<br/>
-# Screenshot of web application
-![gif-of-webapp](./assets/images/ch6-gif.gif)
-<br/>
+## Screenshot of web application<br/>
+![gif-of-webapp](./Develop/mockup/challenge-9.gif)
 <br/>
 
 ### **Credits**
 * Source code provided by University of Wisconsin-Milwaukee Extended Campus Full-Stack Coding Bootcamp
-
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)

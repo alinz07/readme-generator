@@ -1,9 +1,9 @@
 # Node Professional README Generator
 <br/>
 
-## **Link** to web application:
+## **Link** to web application: https://alinz07.github.io/readme-generator/ 
 
-## **Link** to video walkthrough to demonstrate app functionality: 
+## **Link** to video walkthrough to demonstrate app functionality: https://watch.screencastify.com/v/ONT9WAKiyyEvPgwTlYEe 
 ## **Link** to project repository: https://github.com/alinz07/readme-generator
 <br/>
 

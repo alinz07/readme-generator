@@ -113,15 +113,3 @@ init()
     .catch(err => {
         console.log(err);
     })
-
-// // Function call to initialize app
-// init()
-//     .then(data => {
-//         return generateMarkdown(data);
-//     })
-//     .then(data => {
-//         writeToFile('README.md', data);
-//     })
-//     .then(writeFileResponse => {
-//         console.log(writeFileResponse);
-//     })
